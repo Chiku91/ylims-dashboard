@@ -35,6 +35,8 @@ Displays a medical-themed logo at the top-right corner for professional branding
 🧱 Component-Based Architecture
 Built using reusable and modular components to ensure maintainability and scalability.
 
+
+
 2.🧰 Tech Stack & Libraries
 
 Technology	Purpose
@@ -53,6 +55,8 @@ Technology	Purpose
 
 🖼️ Assets
 public/medical.jpg – 🏥 Medical logo displayed at the top right corner of the app.
+
+
 
 3.🛠️ Setup Instructions
 Clone this repo
@@ -75,15 +79,18 @@ Clone this repo
 
 >npx tailwindcss init -p
 
-3. ## 🚀 Run the Project
+
+4. ## 🚀 Run the Project
 
 **Open your browser at:**
 http://localhost:5173/
 
-4. ## 🏗️ Build for production
+
+5. ## 🏗️ Build for production
 npm run build
 
-5.## 💡 Assumptions & Notes
+
+6.## 💡 Assumptions & Notes
 
 - 🖥️ **Node.js (v14+) & npm must be installed.**
 
