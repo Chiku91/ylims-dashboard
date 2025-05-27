@@ -59,17 +59,17 @@ public/medical.jpg – 🏥 Medical logo displayed at the top right corner of th
 🛠️ Setup Instructions
 Clone this repo
 
-git clone https://github.com/yourusername/ylims-sample-dashboard.git
+>git clone https://github.com/yourusername/ylims-sample-dashboard.git
 
-cd ylims-sample-dashboard
-Install dependencies
+>cd ylims-sample-dashboard
+>Install dependencies
 
-npm create vite@latest internship-assignment
-cd internship-assignment
-npm install
-npm run dev
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+>npm create vite@latest internship-assignment
+>cd internship-assignment
+>npm install
+>npm run dev
+>npm install -D tailwindcss postcss autoprefixer
+>npx tailwindcss init -p
 
 3. ## 🚀 Run the Project
 
