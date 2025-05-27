@@ -8,8 +8,6 @@ Because managing lab samples should be simple, fast, and elegant! This dashboard
 
 🚀 Features at a Glance
 
-🌟 Feature	🔥 Benefit
-
 📋 Interactive Sample Table	Filter, sort, paginate effortlessly
 
 🎛️ Inline Status Update	Change status instantly without page reload
@@ -88,7 +86,6 @@ npm run build
 - 🔗 Backend API endpoints are either mocked using json data
 
 - 🌐 Tested on latest Chrome, Firefox, Edge.
-
 
 - 📱 Responsive design covers common devices; minor tweaks may be needed for edge cases.
 
