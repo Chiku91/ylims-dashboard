@@ -1,16 +1,21 @@
 🧪 YLIMS Sample Management Dashboard
+
 Streamlining Laboratory Sample Handling with React.js
+
 ✨ Why YLIMS?
+
 Because managing lab samples should be simple, fast, and elegant! This dashboard combines powerful functionality with a slick UI for smooth lab workflows.
 
 🚀 Features at a Glance
+
 🌟 Feature	🔥 Benefit
+
 📋 Interactive Sample Table	Filter, sort, paginate effortlessly
-✏️ Add & Edit Forms	Intuitive UI for data entry & updates
+
 🎛️ Inline Status Update	Change status instantly without page reload
-🌗 Dark & Light Mode	Comfortable viewing in any lighting condition
-📱 Fully Responsive	Works beautifully on all devices (mobile/desktop)
+
 🔧 Reusable Components	Scalable & maintainable React components
+
 🌗 Dark/Light Mode Toggle
 Switch between dark and light themes seamlessly for a comfortable user experience.
 
@@ -33,19 +38,29 @@ Displays a medical-themed logo at the top-right corner for professional branding
 Built using reusable and modular components to ensure maintainability and scalability.
 
 🧰 Tech Stack & Libraries
+
 Technology	Purpose
+
 ⚛️ React.js	Component-based UI framework
+
 🎨 Tailwind CSS	Rapid styling and responsive design
+
 ⚡ Vite / CRA	Project setup and bundling (based on your environment)
+
 🔁 React Hooks	State and lifecycle management
+
 📚 React Icons	Beautiful, consistent iconography
+
 📊 React-Paginate	Elegant pagination UI
+
 🖼️ Assets
 public/medical.jpg – 🏥 Medical logo displayed at the top right corner of the app.
+
 🛠️ Setup Instructions
 Clone this repo
 
 git clone https://github.com/yourusername/ylims-sample-dashboard.git
+
 cd ylims-sample-dashboard
 Install dependencies
 
