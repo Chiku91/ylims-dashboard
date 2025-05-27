@@ -1,4 +1,4 @@
-🧪 YLIMS Sample Management Dashboard
+🏥  YLIMS Sample Management Dashboard
 
 Streamlining Laboratory Sample Handling with React.js
 
