@@ -81,8 +81,6 @@ Clone this repo
 http://localhost:5173/
 
 4. ## 🏗️ Build for production
-
-```bash
 npm run build
 
 5.## 💡 Assumptions & Notes
