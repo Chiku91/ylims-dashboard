@@ -6,7 +6,7 @@ Streamlining Laboratory Sample Handling with React.js
 
 Because managing lab samples should be simple, fast, and elegant! This dashboard combines powerful functionality with a slick UI for smooth lab workflows.
 
-🚀 Features at a Glance
+1.🚀 Features at a Glance
 
 📋 Interactive Sample Table	Filter, sort, paginate effortlessly
 
@@ -35,7 +35,7 @@ Displays a medical-themed logo at the top-right corner for professional branding
 🧱 Component-Based Architecture
 Built using reusable and modular components to ensure maintainability and scalability.
 
-🧰 Tech Stack & Libraries
+2.🧰 Tech Stack & Libraries
 
 Technology	Purpose
 
@@ -54,7 +54,7 @@ Technology	Purpose
 🖼️ Assets
 public/medical.jpg – 🏥 Medical logo displayed at the top right corner of the app.
 
-🛠️ Setup Instructions
+3.🛠️ Setup Instructions
 Clone this repo
 
 >git clone https://github.com/yourusername/ylims-sample-dashboard.git
@@ -79,7 +79,7 @@ http://localhost:5173/
 ```bash
 npm run build
 
-## 💡 Assumptions & Notes
+5.## 💡 Assumptions & Notes
 
 - 🖥️ **Node.js (v14+) & npm must be installed.**
 
