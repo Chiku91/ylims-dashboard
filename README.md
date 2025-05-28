@@ -8,31 +8,31 @@ Because managing lab samples should be simple, fast, and elegant! This dashboard
 
 1.🚀 Features at a Glance
 
-📋 Interactive Sample Table	Filter, sort, paginate effortlessly
+📋 Interactive : Sample Table	Filter, sort, paginate effortlessly
 
-🎛️ Inline Status Update	Change status instantly without page reload
+🎛️ Inline Status Update	: Change status instantly without page reload
 
-🔧 Reusable Components	Scalable & maintainable React components
+🔧 Reusable Components	: Scalable & maintainable React components
 
-🌗 Dark/Light Mode Toggle
+🌗 Dark/Light Mode Toggle : 
 Switch between dark and light themes seamlessly for a comfortable user experience.
 
-📱 Responsive Design
+📱 Responsive Design : 
 Fully responsive layout that works flawlessly on mobile phones, tablets, and desktops.
 
-🧩 Reusable Components
+🧩 Reusable Components : 
 Modular and reusable components such as FormField, StatusBadge, and more to keep the codebase clean and maintainable.
 
-📝 Dynamic Form for Adding/Editing Samples
+📝 Dynamic Form for Adding/Editing Samples : 
 Easily add or modify sample data using a flexible and user-friendly form.
 
-🔄 Sample Status Management
+🔄 Sample Status Management: 
 Update and manage sample statuses (e.g., Pending, Completed) directly from the dashboard.
 
-🏥 Top-Right Logo Integration
+🏥 Top-Right Logo Integration :
 Displays a medical-themed logo at the top-right corner for professional branding.
 
-🧱 Component-Based Architecture
+🧱 Component-Based Architecture : 
 Built using reusable and modular components to ensure maintainability and scalability.
 
 
