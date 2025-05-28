@@ -89,8 +89,12 @@ http://localhost:5173/
 5. ## 🏗️ Build for production
 npm run build
 
+6. Live Demo
+   Here is the live Deployment link of the project:
+   https://internship-assignment-project.netlify.app/
+   
 
-6.## 💡 Assumptions & Notes
+7.## 💡 Assumptions & Notes
 
 - 🖥️ **Node.js (v14+) & npm must be installed.**
 
@@ -101,7 +105,7 @@ npm run build
 - 📱 Responsive design covers common devices; minor tweaks may be needed for edge cases.
 
 🎥 Demo / Screenshots
-Check out the app in action!
+Here is the video demonstration and sample screenshots attached in the link below:-
 
 https://drive.google.com/drive/folders/1rSwSOt9UnmCj-ChZuPRzx3GfOE_rnaCe?usp=drive_link
 
