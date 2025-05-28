@@ -90,7 +90,9 @@ Clone this repo
     npm run build
 
 6. Live Demo
+   
    Here is the live Deployment link of the project:
+   
    https://internship-assignment-project.netlify.app/
    
 
