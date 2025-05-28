@@ -103,7 +103,7 @@ Clone this repo
    https://drive.google.com/drive/folders/1rSwSOt9UnmCj-ChZuPRzx3GfOE_rnaCe?usp=drive_link
 
 
-7.💡 Assumptions & Notes
+8.💡 Assumptions & Notes
 
 - 🖥️ **Node.js (v14+) & npm must be installed.**
 
@@ -115,7 +115,7 @@ Clone this repo
 
 
 
-## 🤝 Contributing & Support
+9. 🤝 Contributing & Support
 
 Questions, bugs, or feature requests? Open an issue or reach out:
 
