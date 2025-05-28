@@ -94,7 +94,7 @@ npm run build
    https://internship-assignment-project.netlify.app/
    
 
-7.## 💡 Assumptions & Notes
+7.💡 Assumptions & Notes
 
 - 🖥️ **Node.js (v14+) & npm must be installed.**
 
