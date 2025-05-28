@@ -94,7 +94,14 @@ Clone this repo
    Here is the live Deployment link of the project:
    
    https://internship-assignment-project.netlify.app/
-   
+
+
+7. Video and Screenshots
+  
+   Here is the video demonstration and sample screenshots attached in the link below:-
+
+   https://drive.google.com/drive/folders/1rSwSOt9UnmCj-ChZuPRzx3GfOE_rnaCe?usp=drive_link
+
 
 7.💡 Assumptions & Notes
 
@@ -106,10 +113,6 @@ Clone this repo
 
 - 📱 Responsive design covers common devices; minor tweaks may be needed for edge cases.
 
-🎥 Demo / Screenshots
-Here is the video demonstration and sample screenshots attached in the link below:-
-
-https://drive.google.com/drive/folders/1rSwSOt9UnmCj-ChZuPRzx3GfOE_rnaCe?usp=drive_link
 
 
 ## 🤝 Contributing & Support
