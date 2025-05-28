@@ -83,11 +83,11 @@ Clone this repo
 4. ## 🚀 Run the Project
 
 **Open your browser at:**
-http://localhost:5173/
+   http://localhost:5173/
 
 
 5. ## 🏗️ Build for production
-npm run build
+    npm run build
 
 6. Live Demo
    Here is the live Deployment link of the project:
