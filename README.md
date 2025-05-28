@@ -83,14 +83,27 @@ Clone this repo
 4. ## 🚀 Run the Project
 
 **Open your browser at:**
-http://localhost:5173/
+   http://localhost:5173/
 
 
 5. ## 🏗️ Build for production
-npm run build
+    npm run build
+
+6. Live Demo
+   
+   Here is the live Deployment link of the project:
+   
+   https://internship-assignment-project.netlify.app/
 
 
-6.## 💡 Assumptions & Notes
+7. Video and Screenshots
+  
+   Here is the video demonstration and sample screenshots attached in the link below:-
+
+   https://drive.google.com/drive/folders/1rSwSOt9UnmCj-ChZuPRzx3GfOE_rnaCe?usp=drive_link
+
+
+8.💡 Assumptions & Notes
 
 - 🖥️ **Node.js (v14+) & npm must be installed.**
 
@@ -100,13 +113,9 @@ npm run build
 
 - 📱 Responsive design covers common devices; minor tweaks may be needed for edge cases.
 
-🎥 Demo / Screenshots
-Check out the app in action!
-
-https://drive.google.com/drive/folders/1rSwSOt9UnmCj-ChZuPRzx3GfOE_rnaCe?usp=drive_link
 
 
-## 🤝 Contributing & Support
+9. 🤝 Contributing & Support
 
 Questions, bugs, or feature requests? Open an issue or reach out:
 
