@@ -39,20 +39,20 @@ Built using reusable and modular components to ensure maintainability and scalab
 
 Technology	Purpose
 
-⚛️ React.js	Component-based UI framework
+⚛️ React.js :-	Component-based UI framework
 
-🎨 Tailwind CSS	Rapid styling and responsive design
+🎨 Tailwind CSS :-	Rapid styling and responsive design
 
-⚡ Vite / CRA	Project setup and bundling (based on your environment)
+⚡ Vite / CRA	Project :- setup and bundling (based on your environment)
 
-🔁 React Hooks	State and lifecycle management
+🔁 React Hooks :- State and lifecycle management
 
-📚 React Icons	Beautiful, consistent iconography
+📚 React Icons	:- Beautiful, consistent iconography
 
-📊 React-Paginate	Elegant pagination UI
+📊 React-Paginate :-	Elegant pagination UI
 
 🖼️ Assets
-public/medical.jpg – 🏥 Medical logo displayed at the top right corner of the app.
+public/medical.jpg :– 🏥 Medical logo displayed at the top right corner of the app.
 
 
 3.🛠️ Setup Instructions
