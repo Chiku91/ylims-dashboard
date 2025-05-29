@@ -57,7 +57,6 @@ Technology	Purpose
 public/medical.jpg – 🏥 Medical logo displayed at the top right corner of the app.
 
 
-
 3.🛠️ Setup Instructions
 
 1. **Clone this repo**
@@ -68,11 +67,14 @@ public/medical.jpg – 🏥 Medical logo displayed at the top right corner of th
 
 >Install dependencies
 
-
 npm create vite@latest internship-assignment
+
 npm install
+
 npm run dev
+
 npm install -D tailwindcss postcss autoprefixer
+
 npx tailwindcss init -p
 
 
