@@ -57,7 +57,10 @@ public/medical.jpg – 🏥 Medical logo displayed at the top right corner of th
 
 3.🛠️ Setup Instructions
 
-git clone https://github.com/yourusername/ylims-sample-dashboard.git
+git clone 
+
+https://github.com/yourusername/ylims-sample-dashboard.git
+
 
 cd internship-assignment
 
