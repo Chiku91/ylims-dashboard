@@ -91,7 +91,7 @@ npx tailwindcss init -p
 
   6. Live Demo
    
-   Here is the live Deployment link of the project:
+   Here is the live Deployment link of the project(netlify link):
    
    https://internship-assignment-project.netlify.app/
 
