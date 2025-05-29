@@ -94,9 +94,9 @@ npx tailwindcss init -p
    https://internship-assignment-project.netlify.app/
 
 
-7. Video and Screenshots
+7. Video 🎥 and Screenshots 🖼️
   
-   Here is the video demonstration and sample screenshots attached in the link below:-
+   Here is the video demonstration and screenshots attached displaying all ui layouts.
 
    https://drive.google.com/drive/folders/1rSwSOt9UnmCj-ChZuPRzx3GfOE_rnaCe?usp=drive_link
 
