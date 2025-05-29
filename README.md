@@ -89,7 +89,7 @@ npx tailwindcss init -p
 
     npm run build
 
-  7. Live Demo
+  6. Live Demo
    
    Here is the live Deployment link of the project:
    
