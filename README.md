@@ -1,4 +1,4 @@
-🏥  YLIMS Sample Management Dashboard
+🏥  YLIMS Sample Management Dashboard - (Deployed on Netlify)
 
 Streamlining Laboratory Sample Handling with React.js
 
@@ -98,7 +98,7 @@ npx tailwindcss init -p
 
   7. Video 🎥 and Screenshots 🖼️
   
-   Here is the video demonstration and screenshots attached displaying all ui layouts.
+   Here is the video demonstration and screenshots attached displaying all ui layout and Responsive Design
 
    https://drive.google.com/drive/folders/1rSwSOt9UnmCj-ChZuPRzx3GfOE_rnaCe?usp=drive_link
 
