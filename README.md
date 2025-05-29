@@ -78,13 +78,13 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 
-  4. ## 🚀 Run the Project
+  4.  🚀 Run the Project
 
 **Open your browser at:**
    http://localhost:5173/
 
 
-  5. ## 🏗️ Build for production
+  5.  🏗️ Build for production
     npm run build
 
   6. Live Demo
