@@ -12,8 +12,6 @@ Because managing lab samples should be simple, fast, and elegant! This dashboard
 
 🎛️ Inline Status Update	: Change status instantly without page reload
 
-🔧 Reusable Components	: Scalable & maintainable React components
-
 🌗 Dark/Light Mode Toggle : 
 Switch between dark and light themes seamlessly for a comfortable user experience.
 
