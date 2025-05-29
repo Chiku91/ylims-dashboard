@@ -94,11 +94,10 @@ npx tailwindcss init -p
 
   7. Video 🎥 and Screenshots 🖼️
   
-<<<<<<< HEAD
-   Here is the video demonstration and sample screenshots along with the resposnive layouts
+ Here is the video demonstration and sample screenshots along with the resposnive layouts
 =======
    Here is the video demonstration and screenshots attached displaying all ui layout and Responsive Design
->>>>>>> cbf57643cd182ff51d4f79716fa677186a0cbe7a
+
 
    https://drive.google.com/drive/folders/1rSwSOt9UnmCj-ChZuPRzx3GfOE_rnaCe?usp=drive_link
 
