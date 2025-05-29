@@ -57,13 +57,9 @@ public/medical.jpg – 🏥 Medical logo displayed at the top right corner of th
 
 3.🛠️ Setup Instructions
 
-a. **Clone this repo**
-   ```bash
-   git clone https://github.com/yourusername/ylims-sample-dashboard.git
+git clone https://github.com/yourusername/ylims-sample-dashboard.git
 
-
-
-b. cd internship-assignment
+cd internship-assignment
 
 >Install dependencies
 
