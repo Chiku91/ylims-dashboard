@@ -1,4 +1,4 @@
-🏥  YLIMS Sample Management Dashboard
+🏥  YLIMS Sample Management Dashboard - (Deployed on Netlify)
 
 Streamlining Laboratory Sample Handling with React.js
 
@@ -11,8 +11,6 @@ Because managing lab samples should be simple, fast, and elegant! This dashboard
 📋 Interactive : Sample Table	Filter, sort, paginate effortlessly
 
 🎛️ Inline Status Update	: Change status instantly without page reload
-
-🔧 Reusable Components	: Scalable & maintainable React components
 
 🌗 Dark/Light Mode Toggle : 
 Switch between dark and light themes seamlessly for a comfortable user experience.
@@ -59,11 +57,13 @@ public/medical.jpg – 🏥 Medical logo displayed at the top right corner of th
 
 3.🛠️ Setup Instructions
 
-1. **Clone this repo**
+a. **Clone this repo**
    ```bash
    git clone https://github.com/yourusername/ylims-sample-dashboard.git
 
-2. cd internship-assignment
+
+
+b. cd internship-assignment
 
 >Install dependencies
 
@@ -78,30 +78,36 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 
-4. ## 🚀 Run the Project
+  4.  🚀 Run the Project
 
 **Open your browser at:**
-   http://localhost:5173/
+      
+      http://localhost:5173/
 
 
-5. ## 🏗️ Build for production
+  5.  🏗️ Build for production
+
     npm run build
 
-6. Live Demo
+  6. Live Demo
    
    Here is the live Deployment link of the project:
    
    https://internship-assignment-project.netlify.app/
 
 
-7. Video and Screenshots
+  7. Video 🎥 and Screenshots 🖼️
   
+<<<<<<< HEAD
    Here is the video demonstration and sample screenshots along with the resposnive layouts
+=======
+   Here is the video demonstration and screenshots attached displaying all ui layout and Responsive Design
+>>>>>>> cbf57643cd182ff51d4f79716fa677186a0cbe7a
 
    https://drive.google.com/drive/folders/1rSwSOt9UnmCj-ChZuPRzx3GfOE_rnaCe?usp=drive_link
 
 
-8.💡 Assumptions & Notes
+  8.💡 Assumptions & Notes
 
 - 🖥️ **Node.js (v14+) & npm must be installed.**
 
