@@ -64,8 +64,10 @@ public/medical.jpg – 🏥 Medical logo displayed at the top right corner of th
    ```bash
    git clone https://github.com/yourusername/ylims-sample-dashboard.git
 
+2.```bash
+cd internship-assignment
 
->cd ylims-sample-dashboard
+
 
 >Install dependencies
 
