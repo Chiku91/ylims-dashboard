@@ -78,30 +78,30 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 
-4. ## 🚀 Run the Project
+  4. ## 🚀 Run the Project
 
 **Open your browser at:**
    http://localhost:5173/
 
 
-5. ## 🏗️ Build for production
+  5. ## 🏗️ Build for production
     npm run build
 
-6. Live Demo
+  6. Live Demo
    
    Here is the live Deployment link of the project:
    
    https://internship-assignment-project.netlify.app/
 
 
-7. Video 🎥 and Screenshots 🖼️
+  7. Video 🎥 and Screenshots 🖼️
   
    Here is the video demonstration and screenshots attached displaying all ui layouts.
 
    https://drive.google.com/drive/folders/1rSwSOt9UnmCj-ChZuPRzx3GfOE_rnaCe?usp=drive_link
 
 
-8.💡 Assumptions & Notes
+  8.💡 Assumptions & Notes
 
 - 🖥️ **Node.js (v14+) & npm must be installed.**
 
