@@ -70,17 +70,13 @@ public/medical.jpg – 🏥 Medical logo displayed at the top right corner of th
 
 npm create vite@latest internship-assignment
 
+npm install
 
+npm run dev
 
+npm install -D tailwindcss postcss autoprefixer
 
->npm install
-
->npm run dev
-
->npm install -D tailwindcss postcss autoprefixer
-
->npx tailwindcss init -p
-
+npx tailwindcss init -p
 
 4. ## 🚀 Run the Project
 
