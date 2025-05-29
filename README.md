@@ -64,16 +64,14 @@ public/medical.jpg – 🏥 Medical logo displayed at the top right corner of th
    ```bash
    git clone https://github.com/yourusername/ylims-sample-dashboard.git
 
-2.cd internship-assignment
-
-
-
+2. cd internship-assignment
 
 >Install dependencies
 
->npm create vite@latest internship-assignment
+npm create vite@latest internship-assignment
 
->cd internship-assignment
+
+
 
 >npm install
 
