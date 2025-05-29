@@ -68,15 +68,13 @@ public/medical.jpg – 🏥 Medical logo displayed at the top right corner of th
 
 >Install dependencies
 
+
 npm create vite@latest internship-assignment
-
 npm install
-
 npm run dev
-
 npm install -D tailwindcss postcss autoprefixer
-
 npx tailwindcss init -p
+
 
 4. ## 🚀 Run the Project
 
