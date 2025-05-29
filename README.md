@@ -81,6 +81,7 @@ npx tailwindcss init -p
   4.  🚀 Run the Project
 
 **Open your browser at:**
+      
       http://localhost:5173/
 
 
